@@ -31,7 +31,7 @@
   ],
   "dependencies": {
     "debug": "^4.1.1",
-    "ganache-core": "^3.0.0-beta.0",
+    "ganache-core": "2.11.3-filecoin-alpha",
     "ts-interface-checker": "^0.1.9"
   },
   "devDependencies": {
@@ -41,7 +41,7 @@
     "@types/mocha": "^5.2.6",
     "@types/node": "^10.17.24",
     "chai": "^4.2.0",
-    "hardhat": "^2.0.0",
+    "hardhat": "~0.0.7",
     "mocha": "^7.1.2",
     "prettier": "2.0.5",
     "rimraf": "^3.0.2",
@@ -50,10 +50,10 @@
     "tslint-config-prettier": "^1.18.0",
     "tslint-consistent-codestyle": "^1.15.1",
     "tslint-plugin-prettier": "^2.0.1",
-    "tslint": "^5.16.0",
+    "tslint": "^2.6.0-dev.2",
     "typescript": "~4.0.3"
   },
   "peerDependencies": {
-    "hardhat": "^2.0.0"
+    "hardhat": "~0.0.7"
   }
 }
