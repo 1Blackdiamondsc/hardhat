@@ -35,7 +35,7 @@
     "@types/mocha": "^5.2.6",
     "@types/node": "^10.17.24",
     "chai": "^4.2.0",
-    "ethereum-waffle": "^3.2.0",
+    "ethereum-waffle": "^2.5.1",
     "ethers": "^5.0.0",
     "hardhat": "^2.0.0",
     "mocha": "^7.1.2",
@@ -51,7 +51,7 @@
   "peerDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.0",
     "ethers": "^5.0.0",
-    "ethereum-waffle": "^3.2.0",
+    "ethereum-waffle": "^2.5.1",
     "hardhat": "^2.0.0"
   },
   "dependencies": {
