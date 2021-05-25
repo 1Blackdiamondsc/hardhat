@@ -50,7 +50,7 @@
     "@types/node-fetch": "^2.3.7",
     "@types/node": "^10.17.24",
     "@types/semver": "^6.0.2",
-    "chai": "^4.2.0",
+    "chai": "^3.5.0",
     "ethers": "^5.0.8",
     "hardhat": "^2.0.4",
     "mocha": "^7.1.2",
