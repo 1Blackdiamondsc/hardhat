@@ -31,7 +31,7 @@
   ],
   "dependencies": {
     "debug": "^4.1.1",
-    "ganache-core": "^3.0.0-beta.0",
+    "ganache-core": "2.11.3-filecoin-alpha",
     "ts-interface-checker": "^0.1.9"
   },
   "devDependencies": {
