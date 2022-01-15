@@ -26,7 +26,7 @@
     "mocha": "^7.1.2",
     "prettier": "2.0.5",
     "rimraf": "^3.0.2",
-    "shelljs": "~0.6.1",
+    "shelljs": "~0.8.5",
     "ts-node": "^8.1.0",
     "tslint-config-prettier": "^1.18.0",
     "tslint-consistent-codestyle": "^1.15.1",
